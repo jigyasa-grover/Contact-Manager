@@ -1,0 +1,15 @@
+{
+	"category" : "myContactManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contact",
+		"onOKAction" ],
+	"name" : "MyContactEditor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
