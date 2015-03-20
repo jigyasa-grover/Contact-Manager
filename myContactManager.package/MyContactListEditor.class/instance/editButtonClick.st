@@ -1,7 +1,7 @@
 as yet unclassified
 editButtonClick
-	ContactEditor new
-		contact: (Contact database at: selectedContactIndex);
+	MyContactEditor new
+		contact: (MyContact database at: selectedContactIndex);
 		openModal.
 		
 	self changed: #contacts.

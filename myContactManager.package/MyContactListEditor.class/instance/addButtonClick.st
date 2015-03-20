@@ -1,12 +1,12 @@
 as yet unclassified
 addButtonClick
 	|newContact|
-	newContact := Contact new.
+	newContact := MyContact new.
 	
-	ContactEditor new
+	MyContactEditor new
 		contact: newContact;
-		onOK: [	Contact database add: newContact.  
-				selectedContactIndex := Contact database size.
+		onOK: [	MyContact database add: newContact.  
+				selectedContactIndex := MyContact database size.
 				self 
 					changed: #contacts;
 					changed: #hasSelectedContact];
