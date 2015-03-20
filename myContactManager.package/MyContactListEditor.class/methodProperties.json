@@ -1,13 +1,13 @@
 {
 	"class" : {
-		"menuCommandOn:" : "jigyasa 3/19/2015 09:55",
-		"open" : "jigyasa 3/19/2015 09:55" },
+		"menuCommandOn:" : "jig 3/19/2015 09:59:10",
+		"open" : "jig 3/19/2015 09:59:10" },
 	"instance" : {
-		"addButtonClick" : "jigyasa 3/19/2015 09:53",
-		"contactSelectedIndex" : "jigyasa 3/19/2015 09:53",
-		"contactSelectedIndex:" : "jigyasa 3/19/2015 09:54",
-		"contacts" : "jigyasa 3/19/2015 09:54",
-		"editButtonClick" : "jigyasa 3/19/2015 09:54",
-		"hasSelectedContact" : "jigyasa 3/19/2015 09:54",
-		"open" : "jigyasa 3/19/2015 09:54",
-		"removeButtonClick" : "jigyasa 3/19/2015 09:55" } }
+		"addButtonClick" : "SeanDeNigris 3/20/2015 08:33",
+		"contactSelectedIndex" : "jig 3/19/2015 09:59:10",
+		"contactSelectedIndex:" : "jig 3/19/2015 09:59:10",
+		"contacts" : "SeanDeNigris 3/20/2015 08:32",
+		"editButtonClick" : "SeanDeNigris 3/20/2015 08:33",
+		"hasSelectedContact" : "jig 3/19/2015 09:59:10",
+		"open" : "jig 3/19/2015 09:59:10",
+		"removeButtonClick" : "SeanDeNigris 3/20/2015 08:34" } }
